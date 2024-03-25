@@ -5,7 +5,10 @@ This simulation is just for the journal club of CDLab and I do this just for pre
 [A Neural Substrate of Prediction and Reward](https://www.science.org/doi/10.1126/science.275.5306.1593)
 
 >[!Note]
-> There is no Neural Network here and more mathematical principles about distributional reinforcemene learning, please refer to https://www.science.org/doi/10.1126/science.275.5306.1593
+> There is no Neural Network here and more mathematical principles about distributional reinforcemene learning please refer to https://www.science.org/doi/10.1126/science.275.5306.1593
+
+>[!warning]
+>Unauthorized reproduction and plagiarism are not allowed without the author's permission
 
 
 
